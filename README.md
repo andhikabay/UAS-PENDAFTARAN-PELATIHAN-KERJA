@@ -1,4 +1,4 @@
-a# 🌐 Aplikasi Web Pendaftaran Pelatihan Kerja
+# 🌐 Aplikasi Web Pendaftaran Pelatihan Kerja
 
 Aplikasi ini adalah sistem manajemen pendaftaran pelatihan kerja berbasis web menggunakan Laravel. Dirancang untuk membantu admin mengelola data peserta, program pelatihan, dan pendaftaran secara efisien dan modern.
 
