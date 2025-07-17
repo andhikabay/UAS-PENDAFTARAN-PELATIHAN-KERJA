@@ -1,26 +1,26 @@
-# 🌐 Aplikasi Web Pendaftaran Pelatihan Kerja
+Aplikasi Web Pendaftaran Pelatihan Kerja
 
 Aplikasi ini adalah sistem manajemen pendaftaran pelatihan kerja berbasis web menggunakan Laravel. Dirancang untuk membantu admin mengelola data peserta, program pelatihan, dan pendaftaran secara efisien dan modern.
 
 ---
 
-## ✨ Fitur Utama
+Fitur Utama
 
 - ✅ Login & Logout Admin (Laravel Breeze)
 - 📋 CRUD Data Peserta
 - 📝 CRUD Program Pelatihan
 - 🧾 CRUD Pendaftaran (Relasi Peserta & Pelatihan)
 - 📊 Dashboard Interaktif:
-  - Total Peserta, Pelatihan, dan Pendaftaran
-  - Pie Chart Status Pendaftaran
-  - Bar Chart Peserta per Pelatihan
+     - Total Peserta, Pelatihan, dan Pendaftaran
+     - Pie Chart Status Pendaftaran
+     - Bar Chart Peserta per Pelatihan
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+Teknologi yang Digunakan
 
-- Laravel 10
-- Tailwind CSS 3
+- Laravel 
+- Tailwind CSS 
 - Vite
 - Chart.js
 - Heroicons
@@ -28,7 +28,7 @@ Aplikasi ini adalah sistem manajemen pendaftaran pelatihan kerja berbasis web me
 
 ---
 
-## ⚙️ Instalasi
+Instalasi
 
 ```bash
 git clone https://github.com/username/nama-repo.git
